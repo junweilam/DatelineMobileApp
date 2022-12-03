@@ -29,7 +29,7 @@ const Home = () => {
   return(
     <View style={styles.container}>
       <Text>
-        This will be the home screen of our application!!
+        yili card
       </Text>
       
     </View>
